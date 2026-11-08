@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.subscriptiontracker.app-merged_res-38:/menu_menu_main.xml.flat",
+        "source": "com.example.subscriptiontracker.app-main-40:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.subscriptiontracker.app-merged_res-38:/layout_activity_settings.xml.flat",
+        "source": "com.example.subscriptiontracker.app-main-40:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.subscriptiontracker.app-merged_res-38:/layout_activity_add_edit.xml.flat",
+        "source": "com.example.subscriptiontracker.app-main-40:/layout/activity_add_edit.xml"
+    },
+    {
+        "merged": "com.example.subscriptiontracker.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.example.subscriptiontracker.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.subscriptiontracker.app-merged_res-38:/layout_item_subscription.xml.flat",
+        "source": "com.example.subscriptiontracker.app-main-40:/layout/item_subscription.xml"
+    }
+]

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Subscription Tracker</string>
+    <string name="title_add">Tambah Langganan</string>
+    <string name="title_edit">Ubah Langganan</string>
+    <string name="title_settings">Pengaturan</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="summary_month">Total per bulan</string>
+    <string name="summary_year">Total per tahun</string>
+    <string name="empty_list">Belum ada langganan.\nKetuk tombol + untuk menambah.</string>
+
+    <string name="hint_name">Nama layanan (mis. Netflix)</string>
+    <string name="hint_price">Harga per siklus (Rupiah)</string>
+    <string name="label_cycle">Siklus tagih</string>
+    <string name="label_due">Tanggal tagih berikutnya</string>
+    <string name="label_category">Kategori</string>
+    <string name="label_active">Langganan aktif</string>
+    <string name="btn_save">Simpan</string>
+
+    <string name="label_currency">Mata uang</string>
+    <string name="label_remind">Ingatkan sebelum tagihan</string>
+    <string name="label_dark">Mode gelap</string>
+    <string name="label_notif">Notifikasi pengingat</string>
+    <string name="label_sort">Urutan daftar</string>
+
+    <string-array name="cycle_labels">
+        <item>Bulanan</item>
+        <item>Tahunan</item>
+    </string-array>
+
+    <string-array name="category_labels">
+        <item>Hiburan</item>
+        <item>Musik</item>
+        <item>Produktivitas</item>
+        <item>Penyimpanan Cloud</item>
+        <item>Game</item>
+        <item>Lainnya</item>
+    </string-array>
+
+    <string-array name="currency_labels">
+        <item>Rupiah (IDR)</item>
+        <item>Dolar AS (USD)</item>
+    </string-array>
+
+    <string-array name="remind_labels">
+        <item>1 hari sebelum</item>
+        <item>3 hari sebelum</item>
+        <item>7 hari sebelum</item>
+    </string-array>
+
+    <string-array name="sort_labels">
+        <item>Tanggal jatuh tempo</item>
+        <item>Nama</item>
+        <item>Harga (tertinggi)</item>
+    </string-array>
+</resources>
